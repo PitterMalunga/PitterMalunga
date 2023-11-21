@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Informação pessoal:
+Seja muito bem vindo ao meu perfil do github, eu sou Pitter Gomes Malunga.
 🔭Sou estudante de informática<br>👯 Estou a procura de estágio<br>🌱 Estou disponivel a aprender<br>⚡ O código abre portas para infinitas possibilidades.
 
 
